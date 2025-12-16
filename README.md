@@ -68,3 +68,21 @@ This project demonstrates a **binary classification model** to predict **maligna
 1. Clone this repository:  
 ```bash
 git clone https://github.com/Yokaiiiii/breast-cancer-prediction.git
+```
+2. Open the notebook in Google Colab or Jupyter
+
+3. Run all cells to reproduce results
+
+## 🔗 References
+
+- Breast Cancer Wisconsin (Diagnostic) Data Set - Kaggle
+
+- Scikit-learn Logistic Regression
+
+🚀 Author
+
+Rujan Bastola
+
+- LinkedIn: linkedin.com/in/rujanbastola/
+
+- Machine Learning Enthusiast

@@ -49,7 +49,9 @@ This project demonstrates a **binary classification model** to predict **maligna
 
 ## 📈 Visualizations
 
-*(Place your images here in your notebook, for example: correlation matrix, ROC curve, confusion matrix)*
+<img width="680" height="565" alt="image" src="https://github.com/user-attachments/assets/20666d72-8a6c-48a4-a0d6-e3f9aff791ba" />
+<img width="273" height="343" alt="image" src="https://github.com/user-attachments/assets/6b62c0b1-624a-4a39-ad57-fbb4a2d42801" />
+
 
 ---
 

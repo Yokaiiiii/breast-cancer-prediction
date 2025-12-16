@@ -65,4 +65,4 @@ This project demonstrates a **binary classification model** to predict **maligna
 
 1. Clone this repository:  
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/Yokaiiiii/breast-cancer-prediction.git
